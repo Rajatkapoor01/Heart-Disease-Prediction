@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+plotly
+flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+scipy
+tpot 
+cloudpickle
+wheel
+joblib

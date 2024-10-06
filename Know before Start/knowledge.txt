@@ -1,0 +1,35 @@
+1. Age:
+
+There is no "normal" age for heart disease prediction, but younger people generally have a lower risk.
+Your age: 24 (which is typically considered a low-risk age group, but other factors are also important).
+2. Chest pain type:
+
+0 = Typical Angina (normal): Chest pain caused by reduced blood flow to the heart.
+1 = Atypical Angina: Chest pain with an unclear pattern.
+2 = Non-Anginal Pain: Chest pain not related to heart issues.
+3 = Asymptomatic (normal): No symptoms of chest pain.
+3. Serum Cholesterol (mg/dl):
+
+Normal range: 125–200 mg/dl
+Below 200 mg/dl is generally considered normal.
+Your value: 0 (you might want to use a valid cholesterol value for prediction).
+4. Maximum Heart Rate Achieved:
+
+Normal maximum heart rate (in exercise): 220 minus your age (for age 24: 220 - 24 = 196 beats per minute).
+Your value: 0 (a valid heart rate should be used).
+5. ST Depression Induced by Exercise:
+
+Normal: 0.0 mm
+Abnormal: Anything above 0.1 mm.
+This value represents changes in the heart's electrical activity during exercise.
+Your value: 0 mm (which is normal).
+6. No. of Major Vessels Colored by Fluoroscopy:
+
+Normal range: 0-3.
+0 means no major vessels are affected by blockages (normal).
+7. Thalassemia Status:
+
+0 = Normal (no defect).
+1 = Fixed defect (scar tissue; permanent damage).
+2 = Reversible defect (blockage, but it can be treated).
+Your value: 0 (normal thalassemia status).
