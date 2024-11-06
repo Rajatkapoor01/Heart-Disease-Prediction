@@ -124,6 +124,12 @@ This detailed table helps to better understand the correlation between various h
 ## Conclusion
 This project demonstrates the implementation of a machine learning model for heart disease prediction, with a focus on usability for healthcare professionals. The combination of data preprocessing, model training, and deployment using Flask ensures a practical solution for early diagnostics.
 
+## FINAL OUTPUT :
+ ![result 1](https://github.com/Rajatkapoor01/Heart-Disease-Prediction/blob/main/Screenshot%202024-11-06%20072910.png)
+
+![result 2](https://github.com/Rajatkapoor01/Heart-Disease-Prediction/blob/main/Screenshot%202024-11-06%20073014.png)
+ 
+
 ## LINKEDIN ARTICAL:
 https://www.linkedin.com/pulse/heart-disease-prediction-using-machine-learning-rajat-kapoor-qachc/?trackingId=bRaiHoVyQ%2BayMyOKP4u5oA%3D%3D
 
