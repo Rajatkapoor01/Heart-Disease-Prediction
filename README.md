@@ -3,6 +3,10 @@
 ## Project Overview
 This project aims to create a machine learning model to predict whether a patient is affected by heart disease based on various health metrics. The model is developed using Python and Flask, enabling seamless deployment for healthcare professionals.
 
+## Control FLOW DIAGRAM:
+   ![Flow1](https://github.com/Rajatkapoor01/Heart-Disease-Prediction/blob/main/Screenshot%202025-04-03%20225212.png)
+   ![Flow2](https://github.com/Rajatkapoor01/Heart-Disease-Prediction/blob/main/Screenshot%202025-04-03%20225228.png)
+   <br>
 ## Steps to Develop the ML Model
 
 1. **Collect the Data**: Gather relevant patient health data to form the dataset used for training the model.
@@ -113,12 +117,13 @@ This detailed table helps to better understand the correlation between various h
    python app.py
    ```
 
-4. Open your web browser and navigate to `http://localhost:5000` to access the application.
-5. Here is the Input Screeen:
+
+5. Open your web browser and navigate to `http://localhost:5000` to access the application.
+6. Here is the Input Screeen:
    ![alt text](https://github.com/Rajatkapoor01/Heart-Disease-Prediction/blob/main/images/img-1.png)
-6. Here is the Input Screen:
+7. Here is the Input Screen:
     ![alt text](https://github.com/Rajatkapoor01/Heart-Disease-Prediction/blob/main/images/img-2.png)
-7. Here you have your output screen.
+8. Here you have your output screen.
    ![alt text](https://github.com/Rajatkapoor01/Heart-Disease-Prediction/blob/main/images/img-3.png)
    
 ## Conclusion
